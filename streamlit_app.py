@@ -12,9 +12,8 @@ from glob import glob
 from collections import Counter
 import re
 import math
-from re import findall
+
 from dataclasses import dataclass
-from tkinter import N
 import streamlit as st
 import altair as alt
 import numpy as np
@@ -22,6 +21,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
 from collections import Counter
 import base64
+
 
 
 # Path = "/Users/qinxu/Jupyter_work/2022博士论文语料/日本学生作文801/*.txt"
