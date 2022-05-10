@@ -12,7 +12,6 @@ from glob import glob
 from collections import Counter
 import re
 import math
-import natsort
 from re import findall
 
 from dataclasses import dataclass
